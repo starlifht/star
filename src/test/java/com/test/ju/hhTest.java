@@ -11,7 +11,7 @@ public class hhTest {
 
 @Test
 public void gh(){
-	Assert.assertEquals("e", "4e");;
+	Assert.assertEquals("e", "4e");
 	//Assert.assertFalse(true);
 	System.out.print("hhh");
 }
