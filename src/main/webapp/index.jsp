@@ -11,7 +11,7 @@
 <h1>WELCOME TO CLOUDTEST</h1>
 
 <form action="test_Login_doLogin" method="post">
-HUDSON TEST 0314<br>
+HUDSON TEST 0319<br>
 		用户：<input name="username" required="required"><br><br>
 		密码：<input type="password" required="required" name="password"><br><br> 
 		<input type="submit" value="登陆">

@@ -1,7 +1,10 @@
 package com.test.ju;
 
-import junit.framework.TestCase;
 
-public class test extends TestCase {
 
+public class test  {
+	public static void main(String[] args) throws Exception {
+		System.out.print("helloworld");
+
+	}
 }
